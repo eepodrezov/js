@@ -1,0 +1,51 @@
+.container {
+    width: 80%;
+    border: 2px solid black;
+    margin: 20px auto 0 auto;
+}
+
+.header {
+    width: 80%;
+    margin: 20px auto 0 auto;
+    height: auto;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    width: 60%;
+    margin: 20px auto 0 auto;
+    height: auto;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    width: 60%;
+    margin: 20px auto 0 auto;
+    height: auto;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.columns {
+    width: 80%;
+    margin: 20px auto 0 auto;
+    height: auto;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.column {
+    width: 100%;
+    padding: 50px;
+    border: 1px solid black;
+}

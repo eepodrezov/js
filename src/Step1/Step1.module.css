@@ -1,0 +1,22 @@
+.header {
+    width: 90%;
+    margin: 10px auto 0 auto;
+    border: 2px solid black;
+}
+
+.headerButton {
+    width: 7%;
+    padding: 15px;
+    margin: 0 auto 20px auto;
+    border: 1px solid black;
+}
+
+.headerButton:hover {
+    background-color: black;
+
+    transition: .2s;
+}
+
+.headerButton a:hover {
+    color: white;
+}
